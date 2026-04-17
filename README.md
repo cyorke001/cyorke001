@@ -9,7 +9,7 @@
  ╚═════╝╚══════╝╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝  
 ```
 
-### `CLEMENT KWESI YORKE`
+### `CLEMENT YORKE`
 **OPERATIONS · FINANCIAL ADVISORY · BUSINESS ANALYTICS**
 
 *PwC-trained. Now building at the intersection of data, strategy, and systems that actually get used.*
