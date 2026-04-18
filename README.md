@@ -82,21 +82,33 @@ profile = {
 **`03` — The Broken Contract & Selected Video Work**
 > Data-driven storytelling across policy, economics, and workforce strategy.
 
-| | | |
-|:---:|:---:|:---:|
-| [![The Broken Contract – Short](https://img.youtube.com/vi/4sc3W9UmgKI/hqdefault.jpg)](https://youtu.be/4sc3W9UmgKI) | [![The Broken Contract – Full](https://img.youtube.com/vi/5X13XCB3ZSs/hqdefault.jpg)](https://youtu.be/5X13XCB3ZSs) | [![Priced Out Before We Start](https://img.youtube.com/vi/eTRifUg7qgA/hqdefault.jpg)](https://youtu.be/eTRifUg7qgA) |
-| **The Broken Contract** *(Short)* | **The Broken Contract** *(Full)* | **Priced Out Before We Start** |
-| *Policy · Urban Planning* | *Long-Form Study* | *Cost of Living · Analysis* |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cyorke001/cyorke001/main/Ideation-The%20Broken%20Contract.png" width="680" alt="The Broken Contract — Ideation Board">
+</div>
 
 | | |
 |:---:|:---:|
-| [![A 4-Day Work Week](https://img.youtube.com/vi/gWJsIqB4jjc/hqdefault.jpg)](https://youtu.be/gWJsIqB4jjc) | [![Salvana Promo Ad](https://img.youtube.com/vi/bhEuFMJH1HM/hqdefault.jpg)](https://youtu.be/bhEuFMJH1HM) |
-| **Animated: A 4-Day Work Week** | **Salvana Promo Ad** |
-| *Workforce Policy · Animation* | *Brand · Creative Direction* |
+| [![The Broken Contract – Short](https://img.youtube.com/vi/4sc3W9UmgKI/hqdefault.jpg)](https://youtu.be/4sc3W9UmgKI) | [![The Broken Contract – Full](https://img.youtube.com/vi/5X13XCB3ZSs/hqdefault.jpg)](https://youtu.be/5X13XCB3ZSs) |
+| **The Broken Contract** *(Short)* | **The Broken Contract** *(Full)* |
+| *Policy · Urban Planning* | *Long-Form Study* |
+
+`Data Analysis` `Policy` `Power BI` `Storytelling` `Visual Communication`
 
 ---
 
-**`04` — Canada CPI Growth Analysis (2017–2022)**
+**`04` — Selected Video Work**
+> Data-driven storytelling across policy, economics, and workforce strategy.
+
+| | | |
+|:---:|:---:|:---:|
+| [![Priced Out Before We Start](https://img.youtube.com/vi/eTRifUg7qgA/hqdefault.jpg)](https://youtu.be/eTRifUg7qgA) | [![A 4-Day Work Week](https://img.youtube.com/vi/gWJsIqB4jjc/hqdefault.jpg)](https://youtu.be/gWJsIqB4jjc) | [![Salvana Promo Ad](https://img.youtube.com/vi/bhEuFMJH1HM/hqdefault.jpg)](https://youtu.be/bhEuFMJH1HM) |
+| **Priced Out Before We Start** | **Animated: A 4-Day Work Week** | **Salvana Promo Ad** |
+| *Cost of Living · Analysis* | *Workforce Policy · Animation* | *Brand · Creative Direction* |
+
+`Storytelling` `Economic Insight` `Animation` `Brand` `Visual Communication`
+---
+
+**`05` — Canada CPI Growth Analysis (2017–2022)**
 > Between 2017 and 2022, food prices in Canada rose faster than any other consumer spending category — outpacing shelter, transportation, and the all-items average by a significant margin. This analysis uses Statistics Canada's CPI dataset to quantify that growth across nine categories, visualize the trend with Matplotlib, and explain the compounding factors that drove it: COVID-19 supply chain disruption, fertilizer cost spikes tied to the Ukraine war, climate-related crop failures, and post-lockdown demand rebound.
 
 `Python` `pandas` `Matplotlib` `Statistics Canada` `Data Analysis` · **[View Notebook →](https://github.com/cyorke001/cyorke001/blob/main/CPI_Assignment_Clement_Yorke.ipynb)**
