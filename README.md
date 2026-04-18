@@ -32,7 +32,6 @@ profile = {
     "name":       "Clement Yorke",
     "based":      "Oshawa, ON",
     "studying":   "Master of Business Analytics & AI — Ontario Tech",
-    "background": "Advisory Consultant @ PricewaterhouseCoopers (PwC)",
     "building":   ["NLP pipelines", "bias-aware fintech", "data-driven narratives"],
     "philosophy": "Built on rigour."
 }
