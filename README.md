@@ -94,6 +94,13 @@ profile = {
 | **Animated: A 4-Day Work Week** | **Salvana Promo Ad** |
 | *Workforce Policy · Animation* | *Brand · Creative Direction* |
 
+**`04` — Canada CPI Growth Analysis (2017–2022)**
+> Between 2017 and 2022, food prices in Canada rose faster than any other consumer spending category — outpacing shelter, transportation, and the all-items average by a significant margin. This analysis uses Statistics Canada's CPI dataset to quantify that growth across nine categories, visualize the trend with Matplotlib, and explain the compounding factors that drove it: COVID-19 supply chain disruption, fertilizer cost spikes tied to the Ukraine war, climate-related crop failures, and post-lockdown demand rebound.
+
+`Python` `pandas` `Matplotlib` `Statistics Canada` `Data Analysis` · **[View Notebook →](https://github.com/cyorke001/cyorke001/blob/main/CPI_Assignment_Clement_Yorke.ipynb)**
+
+---
+
 `Data Analysis` `Policy` `Power BI` `Storytelling` `Visual Communication`
 
 ---
