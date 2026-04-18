@@ -18,8 +18,8 @@
 ![PwC](https://img.shields.io/badge/Alumni-PwC-000000?style=flat-square)
 ![PMP](https://img.shields.io/badge/PMP-In_Progress-555555?style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-555555?style=flat-square&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-clement--yorke-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-yorke)
+[![Portfolio](https://img.shields.io/badge/Portfolio-clement--yorke--portfolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://clement-yorke-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-clement--yorke-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-yorke/)
 [![Email](https://img.shields.io/badge/Email-clementkwesi.yorke@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:clementkwesi.yorke@gmail.com)
 
 </div>
@@ -29,9 +29,10 @@
 ```python
 # profile
 profile = {
-    "name":       "Clement Kwesi Yorke",
+    "name":       "Clement Yorke",
     "based":      "Oshawa, ON",
     "studying":   "Master of Business Analytics & AI — Ontario Tech",
+    "background": "Advisory Consultant @ PricewaterhouseCoopers (PwC)",
     "building":   ["NLP pipelines", "bias-aware fintech", "data-driven narratives"],
     "philosophy": "Built on rigour."
 }
@@ -94,14 +95,12 @@ profile = {
 | **Animated: A 4-Day Work Week** | **Salvana Promo Ad** |
 | *Workforce Policy · Animation* | *Brand · Creative Direction* |
 
+---
+
 **`04` — Canada CPI Growth Analysis (2017–2022)**
 > Between 2017 and 2022, food prices in Canada rose faster than any other consumer spending category — outpacing shelter, transportation, and the all-items average by a significant margin. This analysis uses Statistics Canada's CPI dataset to quantify that growth across nine categories, visualize the trend with Matplotlib, and explain the compounding factors that drove it: COVID-19 supply chain disruption, fertilizer cost spikes tied to the Ukraine war, climate-related crop failures, and post-lockdown demand rebound.
 
 `Python` `pandas` `Matplotlib` `Statistics Canada` `Data Analysis` · **[View Notebook →](https://github.com/cyorke001/cyorke001/blob/main/CPI_Assignment_Clement_Yorke.ipynb)**
-
----
-
-`Data Analysis` `Policy` `Power BI` `Storytelling` `Visual Communication`
 
 ---
 
