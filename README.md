@@ -82,10 +82,6 @@ profile = {
 **`03` — The Broken Contract & Selected Video Work**
 > Data-driven storytelling across policy, economics, and workforce strategy.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cyorke001/cyorke001/main/Ideation-The%20Broken%20Contract.png" width="680" alt="The Broken Contract — Ideation Board">
-</div>
-
 | | |
 |:---:|:---:|
 | [![The Broken Contract – Short](https://img.youtube.com/vi/4sc3W9UmgKI/hqdefault.jpg)](https://youtu.be/4sc3W9UmgKI) | [![The Broken Contract – Full](https://img.youtube.com/vi/5X13XCB3ZSs/hqdefault.jpg)](https://youtu.be/5X13XCB3ZSs) |
