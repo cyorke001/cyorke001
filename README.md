@@ -10,14 +10,12 @@
 ```
 
 **OPERATIONS · FINANCIAL ADVISORY · BUSINESS ANALYTICS**
-
 *PwC-trained. Now building at the intersection of data, strategy, and systems that actually get used.*
 
 ![Available](https://img.shields.io/badge/●_AVAILABLE-Open_to_Opportunities-22c55e?style=flat-square)
 ![MBAI](https://img.shields.io/badge/MBAI-Ontario_Tech-000000?style=flat-square)
 ![PwC](https://img.shields.io/badge/Alumni-PwC-000000?style=flat-square)
 ![PMP](https://img.shields.io/badge/PMP-In_Progress-555555?style=flat-square)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-clement--yorke--portfolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://clement-yorke-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-clement--yorke-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-yorke/)
 [![Email](https://img.shields.io/badge/Email-clementkwesi.yorke@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:clementkwesi.yorke@gmail.com)
@@ -79,7 +77,15 @@ profile = {
 
 ---
 
-**`03` — The Broken Contract & Selected Video Work**
+**`03` — Durham Region Health Data**
+> Interactive dashboard visualising public health indicators across Durham Region, Ontario.
+> Turns complex regional health datasets into clear, accessible, and explorable insights.
+
+`Data Dashboard` `Public Health` `Data Visualization` · **[● Live →](https://durham-region-health-data.vercel.app)**
+
+---
+
+**`04` — The Broken Contract & Selected Video Work**
 > Data-driven storytelling across policy, economics, and workforce strategy.
 
 | | |
@@ -92,7 +98,7 @@ profile = {
 
 ---
 
-**`04` — Selected Video Work**
+**`05` — Selected Video Work**
 > Data-driven storytelling across policy, economics, and workforce strategy.
 
 | | | |
@@ -102,9 +108,10 @@ profile = {
 | *Cost of Living · Analysis* | *Workforce Policy · Animation* | *Brand · Creative Direction* |
 
 `Storytelling` `Economic Insight` `Animation` `Brand` `Visual Communication`
+
 ---
 
-**`05` — Canada CPI Growth Analysis (2017–2022)**
+**`06` — Canada CPI Growth Analysis (2017–2022)**
 > Between 2017 and 2022, food prices in Canada rose faster than any other consumer spending category — outpacing shelter, transportation, and the all-items average by a significant margin. This analysis uses Statistics Canada's CPI dataset to quantify that growth across nine categories, visualize the trend with Matplotlib, and explain the compounding factors that drove it: COVID-19 supply chain disruption, fertilizer cost spikes tied to the Ukraine war, climate-related crop failures, and post-lockdown demand rebound.
 
 `Python` `pandas` `Matplotlib` `Statistics Canada` `Data Analysis` · **[View Notebook →](https://github.com/cyorke001/cyorke001/blob/main/CPI_Assignment_Clement_Yorke.ipynb)**
