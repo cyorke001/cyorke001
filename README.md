@@ -10,6 +10,7 @@
 ```
 
 **OPERATIONS · FINANCIAL ADVISORY · BUSINESS ANALYTICS**
+
 *Building at the intersection of data, strategy, and systems that actually get used.*
 
 ![Available](https://img.shields.io/badge/●_AVAILABLE-Open_to_Opportunities-22c55e?style=flat-square)
