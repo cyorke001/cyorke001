@@ -14,7 +14,7 @@
 *Building at the intersection of data, strategy, and systems that actually get used.*
 
 ![Available](https://img.shields.io/badge/●_AVAILABLE-Open_to_Opportunities-22c55e?style=flat-square)
-![MBAI](https://img.shields.io/badge/MBAI-Ontario_Tech-000000?style=flat-square)
+[![MBAI](https://img.shields.io/badge/MBAI-Ontario_Tech-000000?style=flat-square)](https://ontariotechu.ca/)
 ![PMP](https://img.shields.io/badge/PMP-In_Progress-555555?style=flat-square)
 [![Portfolio](https://img.shields.io/badge/Portfolio-clement--yorke--portfolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://clement-yorke-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-clement--yorke-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-yorke/)
